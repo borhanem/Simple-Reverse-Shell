@@ -1,4 +1,3 @@
-# Borhan Moyassari 40132173
 import socket
 import os
 import subprocess

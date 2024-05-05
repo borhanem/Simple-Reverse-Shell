@@ -1,5 +1,3 @@
-# Borhan Moyassari 40132173
-# multiconn-server.py
 import socket
 import threading
 import os
